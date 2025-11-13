@@ -1,0 +1,6 @@
+@import 'tailwindcss';
+
+.fi-sidebar-nav,
+.fi.min-h-screen {
+    scrollbar-width: none
+}
